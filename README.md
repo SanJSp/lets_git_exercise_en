@@ -1,13 +1,12 @@
-# Let's Git - Versionsverwaltung & Open Source Hausaufgabe
-Herzlich Willkommen zu dieser Hausaufgabe für unseren MOOC: Let's Git! Wir hoffen, dass Du viel lernen wirst und dabei auch Spaß hast.
+# Let's Git - Version Control & Open Source Homework
+Welcome to this homework for our MOOC: Let's Git! We hope you will learn a lot and have fun working on it.
 
-In dieser Hausaufgabe wirst du eine Webseite zu deinem Lieblingscharakter aus Filmen oder Büchern erstellen. Um die Aufgabe zu starten, folge einfach folgenden Schritten:
+In this homework you will create a website about your favourite character from a movies or a book. To start the task, simply follow these steps:
 
-- [ ] Nutze dieses Reposiory als Vorlage für ein neues Repository und klicke auf „Use this template“, um das selbe Repository in deinen Repositories zu erstellen. Gib dem Repository beim erstellen den Namen „\<dein github name\>.github.io“. Wenn dein Username zum Beispiel sanjsp ist, sollte das Repository sanjsp.github.io heißen
-- [ ] Gib dem neu erstellten Repository einen Stern.
-- [ ] Clone das Repository auf deinen Computer. Dafür gehst du oben in der Leiste auf Clone or Download und kopierst den Link des Repositories. Dann führst du in der Git Bash ```git clone (URL des Repositories)``` aus.
-- [ ] Öffne die Webseite des Repositories, indem du im Brwoser auf  \<dein github name\>.github.io gehst.
-- [ ] Mit der Zeit werden in deinem Repository neue Issues erscheinen. Bearbeite diese und folge den Schritten, die in den Issues angegeben sind. Es kann manchmal ein wenig dauern (max. 5 Minuten), bis die Issues erstellt werden.
+- [ ] Use this repository as a template for a new repository and click "Use this template" to create the same repository in your repositories. When creating the repository, name it like this: "\<your github name\>.github.io". For example, if your username is sanjsp, the repository should be called sanjsp.github.io
+- [ ] Give the newly created repository a star.
+- [ ] Clone the repository to your computer. To do this, go to "Clone or Download" in the top bar and copy the link of the repository. Then in Git Bash, run ``git clone (URL of the repository) ``.
+- Open the repository web page by going to \<your github name\>.github.io in the browser.
+- [ ] New issues will appear in your repository over time. Edit them and follow the steps indicated in the issues. Sometimes it can take a  while (max. 5 minutes) to create the issues.
 
-Die Webseite verändert sich immer, wenn ein Pull Request stattgefunden hat. Wenn du die Veränderungen anschauen möchtest, die du auf deinem feature-Branch erstellt hast, schau dir die index.md Datei in deinem Repository auf deinem Branch an. Die Webseite wird immer nur die Version vom master-Branch anzeigen, weshalb Veränderungen auf anderen Branches auf der Webseite nicht sichtbar sind. Falls du also Probleme hast und Tests fehlschlagen, dann kannst du dir auf der Github Seite des Repositories die Index.md Datei anschauen. Klicke auf sie und schau sie dir im Browser an, um zu sehen, was beim Formattieren der Inhalte nicht ganz geklappt hat. 
-
+The website changes every time a pull request is made. If you want to see the changes you have made to your feature branch, look at the index.md file in your repository on your branch. The website will only show the version of the website on the master branch, so changes on other branches will not be visible on the website. So if you have problems and tests fail, you can check the index.md file on the github page of the repository. Click on it and look at it in your browser to see what didn't quite work when formatting the content. 
