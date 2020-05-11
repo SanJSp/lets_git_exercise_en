@@ -1,2 +1,1 @@
-🎉 Gute Arbeit! Du hast dieses Issue erfolgreich umgesetzt. Jetzt kannst du diesen Pull Request mergen. Auf dem bearbeiteten Issue gibt es noch weitere Schritte, die du befolgen sollst. Nachdem du diese Schritte absolviert hast solltest du auf der Issue Seite ein weiteres Issue finden. Das kann eventuell auch einen Moment dauern, keine Panik. Viel Spaß bei der Bearbeitung des neuen Issues. 👍
-
+🎉 Good job! You have successfully implemented this issue. Now you may merge this pull request. There are some more steps you should follow on the current issue . After you have completed these steps you should find another issue on the issue page. This may take a moment, don't worry. Have fun working on the new issue. 👍

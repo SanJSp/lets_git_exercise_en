@@ -1,28 +1,28 @@
 ---
 name: Aufgabe 2 Template
 about: Das zweite Issue, welches Aufgabe 2 abbildet.
-title: Beschreibung des Charackters hinzufügen
+title: Add description of character
 labels: enhancement
 assignees: ''
 
 ---
 
-#### Beschreibung
-Momentan ist dem Nutzer klar, welcher Charakter dargestellt werden soll. Allerdings würde eine Kurzbeschreibung den Besuchern helfen, genauer zu verstehen, was den Charakter ausmacht.
+#### Description
+At the moment the user knows which character should be displayed. However, a short description would help the visitor to understand more precisely what the character is all about.
 
-#### Dateien
-Falls du Hilfe brauchst, wirf einen Blick ins Cheatsheet.
+#### Files
+If you need help, take a look at the cheatsheet.
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-#### Aufgaben
-In diesem Issue erhältst du weniger Hilfestellung als im ersten. Falls du nicht weiterkommst, kannst du auch in das erste Issue auf der Issue Seite (unter Closed) reinschauen. Führe folgende Schritte aus:
-- [ ] Erstelle einen neuen Branch mit dem Namen ```feature2_short_description```
-- [ ] Wechsle auf diesen Branch
-- [ ] Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur index.md Datei hinzu. Hierfür sollst du Klartext schreiben, also ohne besondere Formattierungen oder Github Flavoured Markdown.
-- [ ] Führe einen Commit mit deinen Änderungen aus und pushe.
-- [ ] Erstelle einen Pull Request. In diesem sollst du am Ende noch dein Issue referenzieren. Dafür schreibst du am Ende ```Fixes: # ``` und wählst dann aus der Liste das Issue aus.
-- [ ] Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in den Master Branch mergen. Falls die Tests fehlschlagen, schaue in die Kommentare des Pull Requests, um herauszufinden woran es lag. Behebe die Fehler, sodass die Tests positiv durchlaufen. Eine gute Idee ist es die Schritte des Issues erneut zu durchlaufen und zu schauen, ob alles richtig geschrieben ist. Außerdem kannst du dir die Index.md Datei auf Github anschauen und die richtige Formattierung überprüfen. Wenn du es für 15 Minuten ohne Erfolg nicht hingekriegt hast, kannst du in das Kursforum schauen.
-- [ ] Lösche deinen Feature Branch. Da du im Pull Request das Issue referenziert hast, musst du dieses nicht mehr schließen! Wechsle auf den Master Branch und bringe dein Repository auf den neuesten Stand.
-- [ ] Betrachte deine Webseite und schau, ob sich etwas verändert hat. Gegebenenfalls musst du ein paar Mal die Seite aktualisieren.
+#### Tasks
+In this issue you will get less help than in the first one. If you are stuck, you can also look into the first issue on the issue page (via closed). Follow these steps:
+- Create a new branch with the name ``feature2_short_description``
+- [ ] Switch to this branch
+- [ ] Add a description of your character (~30-50 words) to the index.md file underneath the title. For this you should write plain text, without any special formatting or github flavoured markdown.
+- [ ] Commit your changes and push them.
+- [ ] Create a pull request. At the end of the pull request you should reference your issue. For this you write``fixes: # ``  and then select the issue from the list.
+- [ ] If all tests have passed, you can merge your changes into the master branch. If the tests fail, look at the comments of the pull request to find out what the problem was. Fix the errors so that the tests pass. A good idea is to repeat the steps of the issue again and see if everything is written correctly. You can also look at the Index.md file on Github and check the correct formatting. If you tried it for 15 minutes without success, you can have a look in the course forum.
+- [ ] Delete your feature branch. Since you have referenced the issue in the pull request, you don't have to close it anymore! Switch to the Master Branch and update your local repository.
+- [ ] Take a look at your website and see if something has changed. You may have to update the page a few times.
 
-Solltest du Fragen haben, kannst du einen Blick ins Kurs Forum werfen.
+If you have any questions, you can take a look at the course forum.

@@ -1,32 +1,30 @@
 ---
 name: Aufgabe 5 Template
 about: Das fünfte Issue, welches Aufgabe 5 abbildet
-title: Bild deines Charackters einfügen
+title: Add character image
 labels: feature
 assignees: ''
 
 ---
 
-#### Beschreibung
-Die Besucher deiner Seite haben jetzt schon einen guten Eindruck von deinem Charackter. Noch besser ist es, deinen Charackter bildlich darzustellen. Dafür sollst du ein Bild deines Charackters hinzufügen. Wähle dafür ein horizontales Bild aus dem Internet.
+#### Description
+The visitors of your site already have a good impression of your charackter. It is even better to show your charackter visually. Therefore you should add a picture of your character. For that you should choose a horizontal picture from the internet.
 
-#### Dateien
-Falls du Hilfe brauchst, wirf einen Blick ins Cheatsheet. Wir möchten eine Blockquote verwenden.
+#### Files
+If you need help, take a look at the cheat sheet.
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-#### Aufgaben
-Führe folgende Schritte aus:
-- [ ] Erstelle einen neuen Branch mit dem Namen ```feature5_image```
-- [ ] Checke diesen Branch aus
-- [ ] Suche auf der Suchmaschine deiner Wahl nach einem Bild deines Charackters, welches dir besonders gut gefällt. Ermittle den Link dieses Bildes, indem du auf "Datei anzeigen" oder auf das Bild klickst und dann die Adresse aus der Adressleiste des Browser kopierst.
-- [ ] Füge das Bild am Ende deiner Webseite ein, indem du den HTML-Ausdruck ```<img src="URL"/>``` verwendest. Ersetze hierfür die URL mit dem Link zu deinem Bild.
-- [ ] Führe einen Commit mit deinen Änderungen aus und pushe diese.
-- [ ] Erstelle einen Pull Request.
-- [ ] Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in den Master Branch mergen. Falls die Tests fehlschlagen, schaue in die Kommentare des Pull Requests, um herauszufinden woran es lag. Behebe die Fehler, sodass die Tests positiv durchlaufen. Eine gute Idee ist es die Schritte des Issues erneut zu durchlaufen und zu schauen, ob alles richtig geschrieben ist. Außerdem kannst du dir die Index.md Datei auf Github anschauen und die richtige Formattierung überprüfen. Wenn du es für 15 Minuten ohne Erfolg nicht hingekriegt hast, kannst du in das Kursforum schauen.
-- [ ] Lösche deinen Feature Branch, wechsel auf master und bringe dein Repository auf den neuesten Stand.
-- [ ] Betrachte deine Webseite und schau, ob sich etwas verändert hat. Gegebenenfalls musst du ein paar Mal die Seite aktualisieren.
 
-Solltest du Fragen haben, kannst du einen Blick ins Kurs Forum werfen.
+#### Tasks
+Carry out the following steps:
+- [ ] Create a new branch named ``feature5_image``
+- [ ] Checkout this branch
+- [ ] Search on the search engine of your choice for a picture of your charackter that you particularly like. Get the link of this picture by clicking on "Show file" or on the picture and then copy the address from the address bar of your browser.
+- Paste the image at the bottom of your website using the HTML expression ``<img src="URL"/>``. Replace the URL with the link to your image.
+- Commit your changes and push them.
+- [ ] Create a pull request.
+- [ ] If both tests have passed, you can merge your changes into the master branch. If the tests fail, look at the comments of the pull request to find out what the problem was. Fix the errors so that the tests pass. A good idea is to repeat the steps of the issue again and see if everything is written correctly. You can also look at the Index.md file on Github and check the correct formatting. If you tried it for 15 minutes without success, you can have a look in the course forum.
+- [ ] Delete your feature branch. Switch to the master branch and update your local repository.
+- [ ] Take a look at your website and see if something has changed. You may have to update the page a few times.
 
-
-
+If you have any questions, you can take a look at the course forum.
