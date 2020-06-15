@@ -1,7 +1,7 @@
 # Let's Git - Version Control & Open Source Homework
 Welcome to this homework for our MOOC: Let's Git! We hope you will learn a lot and have fun working on it.
 
-In this homework, you will create a website about your favorite character from a movie or a book. Here are two examples: [Example 1](https://emski99.github.io/) and [Example 2](https://sanjsp.github.io/).
+In this homework, you will create a website about your favorite character from a movie or a book. Here are two examples: [Example 1](https://emski99.github.io/) and [Example 2](https://sanjsp.github.io/). This exercise will practice you in using the Github Flow but you will see this when doing the individual taks.
 
  To start the task, simply follow these steps:
 
