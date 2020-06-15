@@ -17,7 +17,7 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 #### Tasks
 Perform the following steps:
 - [ ] Navigate to your repository in Git Bash/your terminal. This should work with the command ``cd \<your GitHub name\>.github.io``.
-- [ ] Create a new branch named ``feature1_new_title``. To do this you should enter the command ``git branch feature1_new_title``. Watch the spelling of the branch name, we can only test your work if the name is exactly as specified.
+- [ ] Because we want to practice the Github Flow you should create a new branch named ``feature1_new_title``. To do this you should enter the command ``git branch feature1_new_title``. Keep an eye on the spelling of the branch name, we can only test your work if the name is exactly as specified.
 - [ ] Switch to the created branch with the command ``git checkout feature1_new_title``
 - [ ] Now we want to open the repository in your file explorer(or any other program that can display folders). Just navigate to the folder where your repository was cloned to. As a help you can also try our shortcuts: To do this, enter the command ``explorer.exe .`` in the Git Bash on Windows. On Linux, enter the command ``nautilus .``. If you are a Mac user, you can use the command ``open .``
 - [ ] Now you should add the title to the website. Open the index.md file with an editor. Delete everything that has already been added to the file and use Github flavoured Markdown (the one used in the cheat sheet) to add a title to the website. If you don't know how to do this, check out the cheat sheet.
