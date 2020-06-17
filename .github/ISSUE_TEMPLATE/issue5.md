@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 #### Description
-The visitors of your site already have a good impression of your character. It is even better to show your character visually. Therefore you should add a picture of your character. For that, you should choose a horizontal picture from the internet.
+The visitors of your site already have a good impression of your character. It is even better to show your character visually. Therefore you should add a picture of your character. For that, you should choose a picture from the internet.
 
 #### Tasks
 Carry out the following steps:
