@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 #### Description
-The visitors of your site already have a good impression of your character. It is even better to show your character visually. Therefore you should add a picture of your character. For that, you should choose a horizontal picture from the internet.
+The visitors of your site already have a good impression of your character. It is even better to show your character visually. Therefore you should add a picture of your character. For that, you should choose a picture from the internet.
 
 #### Tasks
 Carry out the following steps:
 - [ ] Create a new branch named ``feature5_image``
 - [ ] Check out this branch
-- [ ] Search on the search engine of your choice for a picture of your character that you particularly like. Now you need to get the direct link to this image. Get it by clicking on "Show file" or by right-clicking on the picture, "show graphic" and then copying the address from the address bar of your browser.
+- [ ] Search on the search engine of your choice for a picture of your character that you particularly like. Make sure that the image license allows you to use it in private context. Now you need to get the direct link to this image. Get it by clicking on "Show file" or by right-clicking on the picture, "show graphic" and then copying the address from the address bar of your browser.
 - [ ] Paste the image at the bottom of your website using the HTML expression ``<img src="URL"/>``. Replace the URL with the link to your image. The cheat sheets also shows a way to display images, but we want you to use this HTML expression.
 - [ ] Commit your changes and push them.
 - [ ] Create a pull request.
